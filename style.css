@@ -1,0 +1,67 @@
+body {
+    background-image:url("background.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    backdrop-filter: blur(30px);
+    display: flex rtl;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 7px;
+    margin: 20% auto;
+    margin-top: 2%;
+    max-width: 60%;
+    min-width: 300px;
+
+}
+
+
+.txt {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div {
+    display: flex rtl;
+    margin-left: 1%;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.dt {
+    display: flex rtl;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.dl {
+    margin-top: 1;
+    margin-left: 20px;
+}
+
+dd {
+    display: flex rtl;
+    margin-left: 5%;
+    font-size: 14px;
+}
+
+.da a {
+    display: flex rtl;
+    text-decoration: none;
+    color: black;
+}
+
+.hr1 {
+    height: 0px;
+    color: black;
+    display: flex;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-right: 19px;
+    background-color: black;
+    border-color: black;
+}
